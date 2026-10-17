@@ -9,8 +9,8 @@
   "third_party": {
     "name": "تطبيق الوكيل",
     "description": "تطبيق الطرف الثالث والإجباري للوكلاء",
-    "latest": "1.0.2",
+    "latest": "1.0.5",
     "download": "https://github.com/26abdlrhman/nabd-releases/releases/latest/download/nabd-agent.exe",
-    "changelog": "تثبيت ويندوز وتحديث تلقائي موقّع مع نسخ احتياطية وترحيل قاعدة البيانات."
+    "changelog": "إصلاح ربط الوثائق السابقة بالحسابات الجديدة، وفتح التأمين الإجباري أولاً حسب الصلاحيات."
   }
 }
