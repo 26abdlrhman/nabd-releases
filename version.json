@@ -9,8 +9,8 @@
   "third_party": {
     "name": "تطبيق الوكيل",
     "description": "تطبيق الطرف الثالث والإجباري للوكلاء",
-    "latest": "1.0.6",
+    "latest": "1.0.7",
     "download": "https://github.com/26abdlrhman/nabd-releases/releases/latest/download/nabd-agent.exe",
-    "changelog": "صفحة عن نبض، وتحسين سرعة الواجهة، والتحقق من الحقول قبل احتساب القسط وإصدار الإجباري."
+    "changelog": "إصلاح إعادة فتح المشغّل، وطباعة PDF على ويندوز، وعرض نتيجة رفع الوثائق وإعادة المحاولة."
   }
 }
