@@ -1,0 +1,16 @@
+{
+  "nabd": {
+    "name": "نبض — الإدارة",
+    "description": "النظام الرئيسي للإدارة والتقارير",
+    "latest": "1.0.0",
+    "download": "https://github.com/26abdlrhman/nabd-releases/releases/latest/download/nabd-admin.exe",
+    "changelog": "الإصدار الأول"
+  },
+  "third_party": {
+    "name": "تطبيق الوكيل",
+    "description": "تطبيق الطرف الثالث والإجباري للوكلاء",
+    "latest": "1.0.0",
+    "download": "https://github.com/26abdlrhman/nabd-releases/releases/latest/download/nabd-agent.exe",
+    "changelog": "الإصدار الأول"
+  }
+}
